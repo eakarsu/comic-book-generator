@@ -1,0 +1,30 @@
+{
+  "id": "comic-book-generator",
+  "title": "Comic Book Generator App",
+  "industry": "Media, Content & Creative",
+  "industryId": "media-content-creative",
+  "specialization": "Comic Book Generator",
+  "sourcePlatformGroup": "media-content-platform",
+  "sources": [
+    "AIBookPublishingPipeline",
+    "AIComicBookGenerator",
+    "AIMemoryBookCreator",
+    "AIPodcastProducer"
+  ],
+  "featureCount": 185,
+  "candidateFeatureCount": 287,
+  "eliminatedSimilarFeatures": 102,
+  "evidenceCount": 842,
+  "aiPageCount": 0,
+  "sourceAIPageCount": 0,
+  "featureEvidencePolicy": "Existing source routes, pages, APIs, models, schemas, and navigation only",
+  "optimizationPolicy": "Equivalent feature names are consolidated once per industry and assigned to one canonical app owner",
+  "database": "database.sqlite",
+  "databaseSeed": {
+    "seededProjects": 4,
+    "seededTables": 55,
+    "seededRows": 837
+  },
+  "visibleFeatureCount": 57,
+  "featureVisibilityMode": "seeded-or-ai"
+}
