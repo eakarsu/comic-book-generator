@@ -97,151 +97,151 @@
           "id": "request-intake-001",
           "state": "draft",
           "reference": "COMIC-BOOK-0001",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — North Region — North Region",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — North Region — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo request intake record for north region; verify evidence and next action before completion. — North Region"
+          "notes": "Demo request intake record for north region; verify evidence and next action before completion. — North Region — North Region — North Region — North Region"
         },
         {
           "id": "request-intake-002",
           "state": "draft",
           "reference": "COMIC-BOOK-0002",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Enterprise Account — Enterprise Account",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-04",
-          "notes": "Demo request intake record for enterprise account; verify evidence and next action before completion. — Enterprise Account"
+          "dueDate": "2026-08-07",
+          "notes": "Demo request intake record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "request-intake-003",
           "state": "draft",
           "reference": "COMIC-BOOK-0003",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Quarterly Cycle — Quarterly Cycle",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-07",
-          "notes": "Demo request intake record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle"
+          "dueDate": "2026-08-13",
+          "notes": "Demo request intake record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "request-intake-004",
           "state": "draft",
           "reference": "COMIC-BOOK-0004",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Priority Queue — Priority Queue",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-10",
-          "notes": "Demo request intake record for priority queue; verify evidence and next action before completion. — Priority Queue"
+          "dueDate": "2026-08-19",
+          "notes": "Demo request intake record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "request-intake-005",
           "state": "draft",
           "reference": "COMIC-BOOK-0005",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Operations Review — Operations Review",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-13",
-          "notes": "Demo request intake record for operations review; verify evidence and next action before completion. — Operations Review"
+          "dueDate": "2026-08-25",
+          "notes": "Demo request intake record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "request-intake-006",
           "state": "draft",
           "reference": "COMIC-BOOK-0006",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Customer Request — Customer Request",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-16",
-          "notes": "Demo request intake record for customer request; verify evidence and next action before completion. — Customer Request"
+          "dueDate": "2026-08-31",
+          "notes": "Demo request intake record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "request-intake-007",
           "state": "draft",
           "reference": "COMIC-BOOK-0007",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Compliance Check — Compliance Check",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-19",
-          "notes": "Demo request intake record for compliance check; verify evidence and next action before completion. — Compliance Check"
+          "dueDate": "2026-09-06",
+          "notes": "Demo request intake record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "request-intake-008",
           "state": "draft",
           "reference": "COMIC-BOOK-0008",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Service Window — Service Window",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Service Window — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-22",
-          "notes": "Demo request intake record for service window; verify evidence and next action before completion. — Service Window"
+          "dueDate": "2026-09-12",
+          "notes": "Demo request intake record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window — Service Window"
         },
         {
           "id": "request-intake-009",
           "state": "draft",
           "reference": "COMIC-BOOK-0009",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Quality Sample — Quality Sample",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo request intake record for quality sample; verify evidence and next action before completion. — Quality Sample"
+          "dueDate": "2026-09-18",
+          "notes": "Demo request intake record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "request-intake-010",
           "state": "draft",
           "reference": "COMIC-BOOK-0010",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Management Review — Management Review",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Management Review — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-28",
-          "notes": "Demo request intake record for management review; verify evidence and next action before completion. — Management Review"
+          "dueDate": "2026-09-24",
+          "notes": "Demo request intake record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review — Management Review"
         },
         {
           "id": "request-intake-011",
           "state": "draft",
           "reference": "COMIC-BOOK-0011",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Exception Follow-up — Exception Follow-up",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-31",
-          "notes": "Demo request intake record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up"
+          "dueDate": "2026-09-30",
+          "notes": "Demo request intake record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "request-intake-012",
           "state": "draft",
           "reference": "COMIC-BOOK-0012",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Evidence Package — Evidence Package",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-09-03",
-          "notes": "Demo request intake record for evidence package; verify evidence and next action before completion. — Evidence Package"
+          "dueDate": "2026-10-06",
+          "notes": "Demo request intake record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "request-intake-013",
           "state": "draft",
           "reference": "COMIC-BOOK-0013",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Planning Cycle — Planning Cycle",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-09-06",
-          "notes": "Demo request intake record for planning cycle; verify evidence and next action before completion. — Planning Cycle"
+          "dueDate": "2026-10-12",
+          "notes": "Demo request intake record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "request-intake-014",
           "state": "draft",
           "reference": "COMIC-BOOK-0014",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Performance Review — Performance Review",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-09-09",
-          "notes": "Demo request intake record for performance review; verify evidence and next action before completion. — Performance Review"
+          "dueDate": "2026-10-18",
+          "notes": "Demo request intake record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "request-intake-015",
           "state": "draft",
           "reference": "COMIC-BOOK-0015",
-          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Final Verification — Final Verification",
+          "subject": "Agentic Comic Studio Orchestrating Script Characte Page — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-09-12",
-          "notes": "Demo request intake record for final verification; verify evidence and next action before completion. — Final Verification"
+          "dueDate": "2026-10-24",
+          "notes": "Demo request intake record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -341,151 +341,151 @@
           "id": "operations-queue-001",
           "state": "queued",
           "reference": "COMIC-BOOK-0001",
-          "subject": "Analyze Photo — North Region — North Region",
+          "subject": "Analyze Photo — North Region — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo operations queue record for north region; verify evidence and next action before completion. — North Region"
+          "notes": "Demo operations queue record for north region; verify evidence and next action before completion. — North Region — North Region — North Region — North Region"
         },
         {
           "id": "operations-queue-002",
           "state": "queued",
           "reference": "COMIC-BOOK-0002",
-          "subject": "Analyze Photo — Enterprise Account — Enterprise Account",
+          "subject": "Analyze Photo — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-04",
-          "notes": "Demo operations queue record for enterprise account; verify evidence and next action before completion. — Enterprise Account"
+          "dueDate": "2026-08-07",
+          "notes": "Demo operations queue record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "operations-queue-003",
           "state": "queued",
           "reference": "COMIC-BOOK-0003",
-          "subject": "Analyze Photo — Quarterly Cycle — Quarterly Cycle",
+          "subject": "Analyze Photo — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-07",
-          "notes": "Demo operations queue record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle"
+          "dueDate": "2026-08-13",
+          "notes": "Demo operations queue record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "operations-queue-004",
           "state": "queued",
           "reference": "COMIC-BOOK-0004",
-          "subject": "Analyze Photo — Priority Queue — Priority Queue",
+          "subject": "Analyze Photo — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-10",
-          "notes": "Demo operations queue record for priority queue; verify evidence and next action before completion. — Priority Queue"
+          "dueDate": "2026-08-19",
+          "notes": "Demo operations queue record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "operations-queue-005",
           "state": "queued",
           "reference": "COMIC-BOOK-0005",
-          "subject": "Analyze Photo — Operations Review — Operations Review",
+          "subject": "Analyze Photo — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-13",
-          "notes": "Demo operations queue record for operations review; verify evidence and next action before completion. — Operations Review"
+          "dueDate": "2026-08-25",
+          "notes": "Demo operations queue record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "operations-queue-006",
           "state": "queued",
           "reference": "COMIC-BOOK-0006",
-          "subject": "Analyze Photo — Customer Request — Customer Request",
+          "subject": "Analyze Photo — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-16",
-          "notes": "Demo operations queue record for customer request; verify evidence and next action before completion. — Customer Request"
+          "dueDate": "2026-08-31",
+          "notes": "Demo operations queue record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "operations-queue-007",
           "state": "queued",
           "reference": "COMIC-BOOK-0007",
-          "subject": "Analyze Photo — Compliance Check — Compliance Check",
+          "subject": "Analyze Photo — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-19",
-          "notes": "Demo operations queue record for compliance check; verify evidence and next action before completion. — Compliance Check"
+          "dueDate": "2026-09-06",
+          "notes": "Demo operations queue record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "operations-queue-008",
           "state": "queued",
           "reference": "COMIC-BOOK-0008",
-          "subject": "Analyze Photo — Service Window — Service Window",
+          "subject": "Analyze Photo — Service Window — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-22",
-          "notes": "Demo operations queue record for service window; verify evidence and next action before completion. — Service Window"
+          "dueDate": "2026-09-12",
+          "notes": "Demo operations queue record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window — Service Window"
         },
         {
           "id": "operations-queue-009",
           "state": "queued",
           "reference": "COMIC-BOOK-0009",
-          "subject": "Analyze Photo — Quality Sample — Quality Sample",
+          "subject": "Analyze Photo — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo operations queue record for quality sample; verify evidence and next action before completion. — Quality Sample"
+          "dueDate": "2026-09-18",
+          "notes": "Demo operations queue record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "operations-queue-010",
           "state": "queued",
           "reference": "COMIC-BOOK-0010",
-          "subject": "Analyze Photo — Management Review — Management Review",
+          "subject": "Analyze Photo — Management Review — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-28",
-          "notes": "Demo operations queue record for management review; verify evidence and next action before completion. — Management Review"
+          "dueDate": "2026-09-24",
+          "notes": "Demo operations queue record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review — Management Review"
         },
         {
           "id": "operations-queue-011",
           "state": "queued",
           "reference": "COMIC-BOOK-0011",
-          "subject": "Analyze Photo — Exception Follow-up — Exception Follow-up",
+          "subject": "Analyze Photo — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-31",
-          "notes": "Demo operations queue record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up"
+          "dueDate": "2026-09-30",
+          "notes": "Demo operations queue record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "operations-queue-012",
           "state": "queued",
           "reference": "COMIC-BOOK-0012",
-          "subject": "Analyze Photo — Evidence Package — Evidence Package",
+          "subject": "Analyze Photo — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-09-03",
-          "notes": "Demo operations queue record for evidence package; verify evidence and next action before completion. — Evidence Package"
+          "dueDate": "2026-10-06",
+          "notes": "Demo operations queue record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "operations-queue-013",
           "state": "queued",
           "reference": "COMIC-BOOK-0013",
-          "subject": "Analyze Photo — Planning Cycle — Planning Cycle",
+          "subject": "Analyze Photo — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-09-06",
-          "notes": "Demo operations queue record for planning cycle; verify evidence and next action before completion. — Planning Cycle"
+          "dueDate": "2026-10-12",
+          "notes": "Demo operations queue record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "operations-queue-014",
           "state": "queued",
           "reference": "COMIC-BOOK-0014",
-          "subject": "Analyze Photo — Performance Review — Performance Review",
+          "subject": "Analyze Photo — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-09-09",
-          "notes": "Demo operations queue record for performance review; verify evidence and next action before completion. — Performance Review"
+          "dueDate": "2026-10-18",
+          "notes": "Demo operations queue record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "operations-queue-015",
           "state": "queued",
           "reference": "COMIC-BOOK-0015",
-          "subject": "Analyze Photo — Final Verification — Final Verification",
+          "subject": "Analyze Photo — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-09-12",
-          "notes": "Demo operations queue record for final verification; verify evidence and next action before completion. — Final Verification"
+          "dueDate": "2026-10-24",
+          "notes": "Demo operations queue record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -584,151 +584,151 @@
           "id": "quality-review-001",
           "state": "pending",
           "reference": "COMIC-BOOK-0001",
-          "subject": "Animations — North Region — North Region",
+          "subject": "Animations — North Region — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo quality review record for north region; verify evidence and next action before completion. — North Region"
+          "notes": "Demo quality review record for north region; verify evidence and next action before completion. — North Region — North Region — North Region — North Region"
         },
         {
           "id": "quality-review-002",
           "state": "pending",
           "reference": "COMIC-BOOK-0002",
-          "subject": "Animations — Enterprise Account — Enterprise Account",
+          "subject": "Animations — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-04",
-          "notes": "Demo quality review record for enterprise account; verify evidence and next action before completion. — Enterprise Account"
+          "dueDate": "2026-08-07",
+          "notes": "Demo quality review record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "quality-review-003",
           "state": "pending",
           "reference": "COMIC-BOOK-0003",
-          "subject": "Animations — Quarterly Cycle — Quarterly Cycle",
+          "subject": "Animations — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-07",
-          "notes": "Demo quality review record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle"
+          "dueDate": "2026-08-13",
+          "notes": "Demo quality review record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "quality-review-004",
           "state": "pending",
           "reference": "COMIC-BOOK-0004",
-          "subject": "Animations — Priority Queue — Priority Queue",
+          "subject": "Animations — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-10",
-          "notes": "Demo quality review record for priority queue; verify evidence and next action before completion. — Priority Queue"
+          "dueDate": "2026-08-19",
+          "notes": "Demo quality review record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "quality-review-005",
           "state": "pending",
           "reference": "COMIC-BOOK-0005",
-          "subject": "Animations — Operations Review — Operations Review",
+          "subject": "Animations — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-13",
-          "notes": "Demo quality review record for operations review; verify evidence and next action before completion. — Operations Review"
+          "dueDate": "2026-08-25",
+          "notes": "Demo quality review record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "quality-review-006",
           "state": "pending",
           "reference": "COMIC-BOOK-0006",
-          "subject": "Animations — Customer Request — Customer Request",
+          "subject": "Animations — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-16",
-          "notes": "Demo quality review record for customer request; verify evidence and next action before completion. — Customer Request"
+          "dueDate": "2026-08-31",
+          "notes": "Demo quality review record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "quality-review-007",
           "state": "pending",
           "reference": "COMIC-BOOK-0007",
-          "subject": "Animations — Compliance Check — Compliance Check",
+          "subject": "Animations — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-19",
-          "notes": "Demo quality review record for compliance check; verify evidence and next action before completion. — Compliance Check"
+          "dueDate": "2026-09-06",
+          "notes": "Demo quality review record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "quality-review-008",
           "state": "pending",
           "reference": "COMIC-BOOK-0008",
-          "subject": "Animations — Service Window — Service Window",
+          "subject": "Animations — Service Window — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-22",
-          "notes": "Demo quality review record for service window; verify evidence and next action before completion. — Service Window"
+          "dueDate": "2026-09-12",
+          "notes": "Demo quality review record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window — Service Window"
         },
         {
           "id": "quality-review-009",
           "state": "pending",
           "reference": "COMIC-BOOK-0009",
-          "subject": "Animations — Quality Sample — Quality Sample",
+          "subject": "Animations — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo quality review record for quality sample; verify evidence and next action before completion. — Quality Sample"
+          "dueDate": "2026-09-18",
+          "notes": "Demo quality review record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "quality-review-010",
           "state": "pending",
           "reference": "COMIC-BOOK-0010",
-          "subject": "Animations — Management Review — Management Review",
+          "subject": "Animations — Management Review — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-28",
-          "notes": "Demo quality review record for management review; verify evidence and next action before completion. — Management Review"
+          "dueDate": "2026-09-24",
+          "notes": "Demo quality review record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review — Management Review"
         },
         {
           "id": "quality-review-011",
           "state": "pending",
           "reference": "COMIC-BOOK-0011",
-          "subject": "Animations — Exception Follow-up — Exception Follow-up",
+          "subject": "Animations — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-31",
-          "notes": "Demo quality review record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up"
+          "dueDate": "2026-09-30",
+          "notes": "Demo quality review record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "quality-review-012",
           "state": "pending",
           "reference": "COMIC-BOOK-0012",
-          "subject": "Animations — Evidence Package — Evidence Package",
+          "subject": "Animations — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-09-03",
-          "notes": "Demo quality review record for evidence package; verify evidence and next action before completion. — Evidence Package"
+          "dueDate": "2026-10-06",
+          "notes": "Demo quality review record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "quality-review-013",
           "state": "pending",
           "reference": "COMIC-BOOK-0013",
-          "subject": "Animations — Planning Cycle — Planning Cycle",
+          "subject": "Animations — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-09-06",
-          "notes": "Demo quality review record for planning cycle; verify evidence and next action before completion. — Planning Cycle"
+          "dueDate": "2026-10-12",
+          "notes": "Demo quality review record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "quality-review-014",
           "state": "pending",
           "reference": "COMIC-BOOK-0014",
-          "subject": "Animations — Performance Review — Performance Review",
+          "subject": "Animations — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-09-09",
-          "notes": "Demo quality review record for performance review; verify evidence and next action before completion. — Performance Review"
+          "dueDate": "2026-10-18",
+          "notes": "Demo quality review record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "quality-review-015",
           "state": "pending",
           "reference": "COMIC-BOOK-0015",
-          "subject": "Animations — Final Verification — Final Verification",
+          "subject": "Animations — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-09-12",
-          "notes": "Demo quality review record for final verification; verify evidence and next action before completion. — Final Verification"
+          "dueDate": "2026-10-24",
+          "notes": "Demo quality review record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -827,151 +827,151 @@
           "id": "risk-assessment-001",
           "state": "identified",
           "reference": "COMIC-BOOK-0001",
-          "subject": "Assets — North Region — North Region",
+          "subject": "Assets — North Region — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo risk assessment record for north region; verify evidence and next action before completion. — North Region"
+          "notes": "Demo risk assessment record for north region; verify evidence and next action before completion. — North Region — North Region — North Region — North Region"
         },
         {
           "id": "risk-assessment-002",
           "state": "identified",
           "reference": "COMIC-BOOK-0002",
-          "subject": "Assets — Enterprise Account — Enterprise Account",
+          "subject": "Assets — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-04",
-          "notes": "Demo risk assessment record for enterprise account; verify evidence and next action before completion. — Enterprise Account"
+          "dueDate": "2026-08-07",
+          "notes": "Demo risk assessment record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "risk-assessment-003",
           "state": "identified",
           "reference": "COMIC-BOOK-0003",
-          "subject": "Assets — Quarterly Cycle — Quarterly Cycle",
+          "subject": "Assets — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-07",
-          "notes": "Demo risk assessment record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle"
+          "dueDate": "2026-08-13",
+          "notes": "Demo risk assessment record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "risk-assessment-004",
           "state": "identified",
           "reference": "COMIC-BOOK-0004",
-          "subject": "Assets — Priority Queue — Priority Queue",
+          "subject": "Assets — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-10",
-          "notes": "Demo risk assessment record for priority queue; verify evidence and next action before completion. — Priority Queue"
+          "dueDate": "2026-08-19",
+          "notes": "Demo risk assessment record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "risk-assessment-005",
           "state": "identified",
           "reference": "COMIC-BOOK-0005",
-          "subject": "Assets — Operations Review — Operations Review",
+          "subject": "Assets — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-13",
-          "notes": "Demo risk assessment record for operations review; verify evidence and next action before completion. — Operations Review"
+          "dueDate": "2026-08-25",
+          "notes": "Demo risk assessment record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "risk-assessment-006",
           "state": "identified",
           "reference": "COMIC-BOOK-0006",
-          "subject": "Assets — Customer Request — Customer Request",
+          "subject": "Assets — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-16",
-          "notes": "Demo risk assessment record for customer request; verify evidence and next action before completion. — Customer Request"
+          "dueDate": "2026-08-31",
+          "notes": "Demo risk assessment record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "risk-assessment-007",
           "state": "identified",
           "reference": "COMIC-BOOK-0007",
-          "subject": "Assets — Compliance Check — Compliance Check",
+          "subject": "Assets — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-19",
-          "notes": "Demo risk assessment record for compliance check; verify evidence and next action before completion. — Compliance Check"
+          "dueDate": "2026-09-06",
+          "notes": "Demo risk assessment record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "risk-assessment-008",
           "state": "identified",
           "reference": "COMIC-BOOK-0008",
-          "subject": "Assets — Service Window — Service Window",
+          "subject": "Assets — Service Window — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-22",
-          "notes": "Demo risk assessment record for service window; verify evidence and next action before completion. — Service Window"
+          "dueDate": "2026-09-12",
+          "notes": "Demo risk assessment record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window — Service Window"
         },
         {
           "id": "risk-assessment-009",
           "state": "identified",
           "reference": "COMIC-BOOK-0009",
-          "subject": "Assets — Quality Sample — Quality Sample",
+          "subject": "Assets — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo risk assessment record for quality sample; verify evidence and next action before completion. — Quality Sample"
+          "dueDate": "2026-09-18",
+          "notes": "Demo risk assessment record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "risk-assessment-010",
           "state": "identified",
           "reference": "COMIC-BOOK-0010",
-          "subject": "Assets — Management Review — Management Review",
+          "subject": "Assets — Management Review — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-28",
-          "notes": "Demo risk assessment record for management review; verify evidence and next action before completion. — Management Review"
+          "dueDate": "2026-09-24",
+          "notes": "Demo risk assessment record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review — Management Review"
         },
         {
           "id": "risk-assessment-011",
           "state": "identified",
           "reference": "COMIC-BOOK-0011",
-          "subject": "Assets — Exception Follow-up — Exception Follow-up",
+          "subject": "Assets — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-31",
-          "notes": "Demo risk assessment record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up"
+          "dueDate": "2026-09-30",
+          "notes": "Demo risk assessment record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "risk-assessment-012",
           "state": "identified",
           "reference": "COMIC-BOOK-0012",
-          "subject": "Assets — Evidence Package — Evidence Package",
+          "subject": "Assets — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-09-03",
-          "notes": "Demo risk assessment record for evidence package; verify evidence and next action before completion. — Evidence Package"
+          "dueDate": "2026-10-06",
+          "notes": "Demo risk assessment record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "risk-assessment-013",
           "state": "identified",
           "reference": "COMIC-BOOK-0013",
-          "subject": "Assets — Planning Cycle — Planning Cycle",
+          "subject": "Assets — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-09-06",
-          "notes": "Demo risk assessment record for planning cycle; verify evidence and next action before completion. — Planning Cycle"
+          "dueDate": "2026-10-12",
+          "notes": "Demo risk assessment record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "risk-assessment-014",
           "state": "identified",
           "reference": "COMIC-BOOK-0014",
-          "subject": "Assets — Performance Review — Performance Review",
+          "subject": "Assets — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-09-09",
-          "notes": "Demo risk assessment record for performance review; verify evidence and next action before completion. — Performance Review"
+          "dueDate": "2026-10-18",
+          "notes": "Demo risk assessment record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "risk-assessment-015",
           "state": "identified",
           "reference": "COMIC-BOOK-0015",
-          "subject": "Assets — Final Verification — Final Verification",
+          "subject": "Assets — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-09-12",
-          "notes": "Demo risk assessment record for final verification; verify evidence and next action before completion. — Final Verification"
+          "dueDate": "2026-10-24",
+          "notes": "Demo risk assessment record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -1069,151 +1069,151 @@
           "id": "evidence-management-001",
           "state": "requested",
           "reference": "COMIC-BOOK-0001",
-          "subject": "Author Analysis — North Region — North Region",
+          "subject": "Author Analysis — North Region — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo evidence management record for north region; verify evidence and next action before completion. — North Region"
+          "notes": "Demo evidence management record for north region; verify evidence and next action before completion. — North Region — North Region — North Region — North Region"
         },
         {
           "id": "evidence-management-002",
           "state": "requested",
           "reference": "COMIC-BOOK-0002",
-          "subject": "Author Analysis — Enterprise Account — Enterprise Account",
+          "subject": "Author Analysis — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-04",
-          "notes": "Demo evidence management record for enterprise account; verify evidence and next action before completion. — Enterprise Account"
+          "dueDate": "2026-08-07",
+          "notes": "Demo evidence management record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "evidence-management-003",
           "state": "requested",
           "reference": "COMIC-BOOK-0003",
-          "subject": "Author Analysis — Quarterly Cycle — Quarterly Cycle",
+          "subject": "Author Analysis — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-07",
-          "notes": "Demo evidence management record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle"
+          "dueDate": "2026-08-13",
+          "notes": "Demo evidence management record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "evidence-management-004",
           "state": "requested",
           "reference": "COMIC-BOOK-0004",
-          "subject": "Author Analysis — Priority Queue — Priority Queue",
+          "subject": "Author Analysis — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-10",
-          "notes": "Demo evidence management record for priority queue; verify evidence and next action before completion. — Priority Queue"
+          "dueDate": "2026-08-19",
+          "notes": "Demo evidence management record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "evidence-management-005",
           "state": "requested",
           "reference": "COMIC-BOOK-0005",
-          "subject": "Author Analysis — Operations Review — Operations Review",
+          "subject": "Author Analysis — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-13",
-          "notes": "Demo evidence management record for operations review; verify evidence and next action before completion. — Operations Review"
+          "dueDate": "2026-08-25",
+          "notes": "Demo evidence management record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "evidence-management-006",
           "state": "requested",
           "reference": "COMIC-BOOK-0006",
-          "subject": "Author Analysis — Customer Request — Customer Request",
+          "subject": "Author Analysis — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-16",
-          "notes": "Demo evidence management record for customer request; verify evidence and next action before completion. — Customer Request"
+          "dueDate": "2026-08-31",
+          "notes": "Demo evidence management record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "evidence-management-007",
           "state": "requested",
           "reference": "COMIC-BOOK-0007",
-          "subject": "Author Analysis — Compliance Check — Compliance Check",
+          "subject": "Author Analysis — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-19",
-          "notes": "Demo evidence management record for compliance check; verify evidence and next action before completion. — Compliance Check"
+          "dueDate": "2026-09-06",
+          "notes": "Demo evidence management record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "evidence-management-008",
           "state": "requested",
           "reference": "COMIC-BOOK-0008",
-          "subject": "Author Analysis — Service Window — Service Window",
+          "subject": "Author Analysis — Service Window — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-22",
-          "notes": "Demo evidence management record for service window; verify evidence and next action before completion. — Service Window"
+          "dueDate": "2026-09-12",
+          "notes": "Demo evidence management record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window — Service Window"
         },
         {
           "id": "evidence-management-009",
           "state": "requested",
           "reference": "COMIC-BOOK-0009",
-          "subject": "Author Analysis — Quality Sample — Quality Sample",
+          "subject": "Author Analysis — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo evidence management record for quality sample; verify evidence and next action before completion. — Quality Sample"
+          "dueDate": "2026-09-18",
+          "notes": "Demo evidence management record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "evidence-management-010",
           "state": "requested",
           "reference": "COMIC-BOOK-0010",
-          "subject": "Author Analysis — Management Review — Management Review",
+          "subject": "Author Analysis — Management Review — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-28",
-          "notes": "Demo evidence management record for management review; verify evidence and next action before completion. — Management Review"
+          "dueDate": "2026-09-24",
+          "notes": "Demo evidence management record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review — Management Review"
         },
         {
           "id": "evidence-management-011",
           "state": "requested",
           "reference": "COMIC-BOOK-0011",
-          "subject": "Author Analysis — Exception Follow-up — Exception Follow-up",
+          "subject": "Author Analysis — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-31",
-          "notes": "Demo evidence management record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up"
+          "dueDate": "2026-09-30",
+          "notes": "Demo evidence management record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "evidence-management-012",
           "state": "requested",
           "reference": "COMIC-BOOK-0012",
-          "subject": "Author Analysis — Evidence Package — Evidence Package",
+          "subject": "Author Analysis — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-09-03",
-          "notes": "Demo evidence management record for evidence package; verify evidence and next action before completion. — Evidence Package"
+          "dueDate": "2026-10-06",
+          "notes": "Demo evidence management record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "evidence-management-013",
           "state": "requested",
           "reference": "COMIC-BOOK-0013",
-          "subject": "Author Analysis — Planning Cycle — Planning Cycle",
+          "subject": "Author Analysis — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-09-06",
-          "notes": "Demo evidence management record for planning cycle; verify evidence and next action before completion. — Planning Cycle"
+          "dueDate": "2026-10-12",
+          "notes": "Demo evidence management record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "evidence-management-014",
           "state": "requested",
           "reference": "COMIC-BOOK-0014",
-          "subject": "Author Analysis — Performance Review — Performance Review",
+          "subject": "Author Analysis — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-09-09",
-          "notes": "Demo evidence management record for performance review; verify evidence and next action before completion. — Performance Review"
+          "dueDate": "2026-10-18",
+          "notes": "Demo evidence management record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "evidence-management-015",
           "state": "requested",
           "reference": "COMIC-BOOK-0015",
-          "subject": "Author Analysis — Final Verification — Final Verification",
+          "subject": "Author Analysis — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-09-12",
-          "notes": "Demo evidence management record for final verification; verify evidence and next action before completion. — Final Verification"
+          "dueDate": "2026-10-24",
+          "notes": "Demo evidence management record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -1312,151 +1312,151 @@
           "id": "exception-resolution-001",
           "state": "open",
           "reference": "COMIC-BOOK-0001",
-          "subject": "Author Contract Pdf — North Region — North Region",
+          "subject": "Author Contract Pdf — North Region — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo exception resolution record for north region; verify evidence and next action before completion. — North Region"
+          "notes": "Demo exception resolution record for north region; verify evidence and next action before completion. — North Region — North Region — North Region — North Region"
         },
         {
           "id": "exception-resolution-002",
           "state": "open",
           "reference": "COMIC-BOOK-0002",
-          "subject": "Author Contract Pdf — Enterprise Account — Enterprise Account",
+          "subject": "Author Contract Pdf — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-04",
-          "notes": "Demo exception resolution record for enterprise account; verify evidence and next action before completion. — Enterprise Account"
+          "dueDate": "2026-08-07",
+          "notes": "Demo exception resolution record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "exception-resolution-003",
           "state": "open",
           "reference": "COMIC-BOOK-0003",
-          "subject": "Author Contract Pdf — Quarterly Cycle — Quarterly Cycle",
+          "subject": "Author Contract Pdf — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-07",
-          "notes": "Demo exception resolution record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle"
+          "dueDate": "2026-08-13",
+          "notes": "Demo exception resolution record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "exception-resolution-004",
           "state": "open",
           "reference": "COMIC-BOOK-0004",
-          "subject": "Author Contract Pdf — Priority Queue — Priority Queue",
+          "subject": "Author Contract Pdf — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-10",
-          "notes": "Demo exception resolution record for priority queue; verify evidence and next action before completion. — Priority Queue"
+          "dueDate": "2026-08-19",
+          "notes": "Demo exception resolution record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "exception-resolution-005",
           "state": "open",
           "reference": "COMIC-BOOK-0005",
-          "subject": "Author Contract Pdf — Operations Review — Operations Review",
+          "subject": "Author Contract Pdf — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-13",
-          "notes": "Demo exception resolution record for operations review; verify evidence and next action before completion. — Operations Review"
+          "dueDate": "2026-08-25",
+          "notes": "Demo exception resolution record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "exception-resolution-006",
           "state": "open",
           "reference": "COMIC-BOOK-0006",
-          "subject": "Author Contract Pdf — Customer Request — Customer Request",
+          "subject": "Author Contract Pdf — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-16",
-          "notes": "Demo exception resolution record for customer request; verify evidence and next action before completion. — Customer Request"
+          "dueDate": "2026-08-31",
+          "notes": "Demo exception resolution record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "exception-resolution-007",
           "state": "open",
           "reference": "COMIC-BOOK-0007",
-          "subject": "Author Contract Pdf — Compliance Check — Compliance Check",
+          "subject": "Author Contract Pdf — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-19",
-          "notes": "Demo exception resolution record for compliance check; verify evidence and next action before completion. — Compliance Check"
+          "dueDate": "2026-09-06",
+          "notes": "Demo exception resolution record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "exception-resolution-008",
           "state": "open",
           "reference": "COMIC-BOOK-0008",
-          "subject": "Author Contract Pdf — Service Window — Service Window",
+          "subject": "Author Contract Pdf — Service Window — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-22",
-          "notes": "Demo exception resolution record for service window; verify evidence and next action before completion. — Service Window"
+          "dueDate": "2026-09-12",
+          "notes": "Demo exception resolution record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window — Service Window"
         },
         {
           "id": "exception-resolution-009",
           "state": "open",
           "reference": "COMIC-BOOK-0009",
-          "subject": "Author Contract Pdf — Quality Sample — Quality Sample",
+          "subject": "Author Contract Pdf — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo exception resolution record for quality sample; verify evidence and next action before completion. — Quality Sample"
+          "dueDate": "2026-09-18",
+          "notes": "Demo exception resolution record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "exception-resolution-010",
           "state": "open",
           "reference": "COMIC-BOOK-0010",
-          "subject": "Author Contract Pdf — Management Review — Management Review",
+          "subject": "Author Contract Pdf — Management Review — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-28",
-          "notes": "Demo exception resolution record for management review; verify evidence and next action before completion. — Management Review"
+          "dueDate": "2026-09-24",
+          "notes": "Demo exception resolution record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review — Management Review"
         },
         {
           "id": "exception-resolution-011",
           "state": "open",
           "reference": "COMIC-BOOK-0011",
-          "subject": "Author Contract Pdf — Exception Follow-up — Exception Follow-up",
+          "subject": "Author Contract Pdf — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-31",
-          "notes": "Demo exception resolution record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up"
+          "dueDate": "2026-09-30",
+          "notes": "Demo exception resolution record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "exception-resolution-012",
           "state": "open",
           "reference": "COMIC-BOOK-0012",
-          "subject": "Author Contract Pdf — Evidence Package — Evidence Package",
+          "subject": "Author Contract Pdf — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-09-03",
-          "notes": "Demo exception resolution record for evidence package; verify evidence and next action before completion. — Evidence Package"
+          "dueDate": "2026-10-06",
+          "notes": "Demo exception resolution record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "exception-resolution-013",
           "state": "open",
           "reference": "COMIC-BOOK-0013",
-          "subject": "Author Contract Pdf — Planning Cycle — Planning Cycle",
+          "subject": "Author Contract Pdf — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-09-06",
-          "notes": "Demo exception resolution record for planning cycle; verify evidence and next action before completion. — Planning Cycle"
+          "dueDate": "2026-10-12",
+          "notes": "Demo exception resolution record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "exception-resolution-014",
           "state": "open",
           "reference": "COMIC-BOOK-0014",
-          "subject": "Author Contract Pdf — Performance Review — Performance Review",
+          "subject": "Author Contract Pdf — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-09-09",
-          "notes": "Demo exception resolution record for performance review; verify evidence and next action before completion. — Performance Review"
+          "dueDate": "2026-10-18",
+          "notes": "Demo exception resolution record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "exception-resolution-015",
           "state": "open",
           "reference": "COMIC-BOOK-0015",
-          "subject": "Author Contract Pdf — Final Verification — Final Verification",
+          "subject": "Author Contract Pdf — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-09-12",
-          "notes": "Demo exception resolution record for final verification; verify evidence and next action before completion. — Final Verification"
+          "dueDate": "2026-10-24",
+          "notes": "Demo exception resolution record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -1555,151 +1555,151 @@
           "id": "approval-control-001",
           "state": "prepared",
           "reference": "COMIC-BOOK-0001",
-          "subject": "Blurb Generator — North Region — North Region",
+          "subject": "Blurb Generator — North Region — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo approval control record for north region; verify evidence and next action before completion. — North Region"
+          "notes": "Demo approval control record for north region; verify evidence and next action before completion. — North Region — North Region — North Region — North Region"
         },
         {
           "id": "approval-control-002",
           "state": "prepared",
           "reference": "COMIC-BOOK-0002",
-          "subject": "Blurb Generator — Enterprise Account — Enterprise Account",
+          "subject": "Blurb Generator — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-04",
-          "notes": "Demo approval control record for enterprise account; verify evidence and next action before completion. — Enterprise Account"
+          "dueDate": "2026-08-07",
+          "notes": "Demo approval control record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "approval-control-003",
           "state": "prepared",
           "reference": "COMIC-BOOK-0003",
-          "subject": "Blurb Generator — Quarterly Cycle — Quarterly Cycle",
+          "subject": "Blurb Generator — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-07",
-          "notes": "Demo approval control record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle"
+          "dueDate": "2026-08-13",
+          "notes": "Demo approval control record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "approval-control-004",
           "state": "prepared",
           "reference": "COMIC-BOOK-0004",
-          "subject": "Blurb Generator — Priority Queue — Priority Queue",
+          "subject": "Blurb Generator — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-10",
-          "notes": "Demo approval control record for priority queue; verify evidence and next action before completion. — Priority Queue"
+          "dueDate": "2026-08-19",
+          "notes": "Demo approval control record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "approval-control-005",
           "state": "prepared",
           "reference": "COMIC-BOOK-0005",
-          "subject": "Blurb Generator — Operations Review — Operations Review",
+          "subject": "Blurb Generator — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-13",
-          "notes": "Demo approval control record for operations review; verify evidence and next action before completion. — Operations Review"
+          "dueDate": "2026-08-25",
+          "notes": "Demo approval control record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "approval-control-006",
           "state": "prepared",
           "reference": "COMIC-BOOK-0006",
-          "subject": "Blurb Generator — Customer Request — Customer Request",
+          "subject": "Blurb Generator — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-16",
-          "notes": "Demo approval control record for customer request; verify evidence and next action before completion. — Customer Request"
+          "dueDate": "2026-08-31",
+          "notes": "Demo approval control record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "approval-control-007",
           "state": "prepared",
           "reference": "COMIC-BOOK-0007",
-          "subject": "Blurb Generator — Compliance Check — Compliance Check",
+          "subject": "Blurb Generator — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-19",
-          "notes": "Demo approval control record for compliance check; verify evidence and next action before completion. — Compliance Check"
+          "dueDate": "2026-09-06",
+          "notes": "Demo approval control record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "approval-control-008",
           "state": "prepared",
           "reference": "COMIC-BOOK-0008",
-          "subject": "Blurb Generator — Service Window — Service Window",
+          "subject": "Blurb Generator — Service Window — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-22",
-          "notes": "Demo approval control record for service window; verify evidence and next action before completion. — Service Window"
+          "dueDate": "2026-09-12",
+          "notes": "Demo approval control record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window — Service Window"
         },
         {
           "id": "approval-control-009",
           "state": "prepared",
           "reference": "COMIC-BOOK-0009",
-          "subject": "Blurb Generator — Quality Sample — Quality Sample",
+          "subject": "Blurb Generator — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo approval control record for quality sample; verify evidence and next action before completion. — Quality Sample"
+          "dueDate": "2026-09-18",
+          "notes": "Demo approval control record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "approval-control-010",
           "state": "prepared",
           "reference": "COMIC-BOOK-0010",
-          "subject": "Blurb Generator — Management Review — Management Review",
+          "subject": "Blurb Generator — Management Review — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-28",
-          "notes": "Demo approval control record for management review; verify evidence and next action before completion. — Management Review"
+          "dueDate": "2026-09-24",
+          "notes": "Demo approval control record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review — Management Review"
         },
         {
           "id": "approval-control-011",
           "state": "prepared",
           "reference": "COMIC-BOOK-0011",
-          "subject": "Blurb Generator — Exception Follow-up — Exception Follow-up",
+          "subject": "Blurb Generator — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-31",
-          "notes": "Demo approval control record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up"
+          "dueDate": "2026-09-30",
+          "notes": "Demo approval control record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "approval-control-012",
           "state": "prepared",
           "reference": "COMIC-BOOK-0012",
-          "subject": "Blurb Generator — Evidence Package — Evidence Package",
+          "subject": "Blurb Generator — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-09-03",
-          "notes": "Demo approval control record for evidence package; verify evidence and next action before completion. — Evidence Package"
+          "dueDate": "2026-10-06",
+          "notes": "Demo approval control record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "approval-control-013",
           "state": "prepared",
           "reference": "COMIC-BOOK-0013",
-          "subject": "Blurb Generator — Planning Cycle — Planning Cycle",
+          "subject": "Blurb Generator — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-09-06",
-          "notes": "Demo approval control record for planning cycle; verify evidence and next action before completion. — Planning Cycle"
+          "dueDate": "2026-10-12",
+          "notes": "Demo approval control record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "approval-control-014",
           "state": "prepared",
           "reference": "COMIC-BOOK-0014",
-          "subject": "Blurb Generator — Performance Review — Performance Review",
+          "subject": "Blurb Generator — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-09-09",
-          "notes": "Demo approval control record for performance review; verify evidence and next action before completion. — Performance Review"
+          "dueDate": "2026-10-18",
+          "notes": "Demo approval control record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "approval-control-015",
           "state": "prepared",
           "reference": "COMIC-BOOK-0015",
-          "subject": "Blurb Generator — Final Verification — Final Verification",
+          "subject": "Blurb Generator — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-09-12",
-          "notes": "Demo approval control record for final verification; verify evidence and next action before completion. — Final Verification"
+          "dueDate": "2026-10-24",
+          "notes": "Demo approval control record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -1798,151 +1798,151 @@
           "id": "performance-reporting-001",
           "state": "requested",
           "reference": "COMIC-BOOK-0001",
-          "subject": "Brand Rules — North Region — North Region",
+          "subject": "Brand Rules — North Region — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo performance reporting record for north region; verify evidence and next action before completion. — North Region"
+          "notes": "Demo performance reporting record for north region; verify evidence and next action before completion. — North Region — North Region — North Region — North Region"
         },
         {
           "id": "performance-reporting-002",
           "state": "requested",
           "reference": "COMIC-BOOK-0002",
-          "subject": "Brand Rules — Enterprise Account — Enterprise Account",
+          "subject": "Brand Rules — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-04",
-          "notes": "Demo performance reporting record for enterprise account; verify evidence and next action before completion. — Enterprise Account"
+          "dueDate": "2026-08-07",
+          "notes": "Demo performance reporting record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "performance-reporting-003",
           "state": "requested",
           "reference": "COMIC-BOOK-0003",
-          "subject": "Brand Rules — Quarterly Cycle — Quarterly Cycle",
+          "subject": "Brand Rules — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-07",
-          "notes": "Demo performance reporting record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle"
+          "dueDate": "2026-08-13",
+          "notes": "Demo performance reporting record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "performance-reporting-004",
           "state": "requested",
           "reference": "COMIC-BOOK-0004",
-          "subject": "Brand Rules — Priority Queue — Priority Queue",
+          "subject": "Brand Rules — Priority Queue — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-10",
-          "notes": "Demo performance reporting record for priority queue; verify evidence and next action before completion. — Priority Queue"
+          "dueDate": "2026-08-19",
+          "notes": "Demo performance reporting record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "performance-reporting-005",
           "state": "requested",
           "reference": "COMIC-BOOK-0005",
-          "subject": "Brand Rules — Operations Review — Operations Review",
+          "subject": "Brand Rules — Operations Review — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-13",
-          "notes": "Demo performance reporting record for operations review; verify evidence and next action before completion. — Operations Review"
+          "dueDate": "2026-08-25",
+          "notes": "Demo performance reporting record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "performance-reporting-006",
           "state": "requested",
           "reference": "COMIC-BOOK-0006",
-          "subject": "Brand Rules — Customer Request — Customer Request",
+          "subject": "Brand Rules — Customer Request — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-16",
-          "notes": "Demo performance reporting record for customer request; verify evidence and next action before completion. — Customer Request"
+          "dueDate": "2026-08-31",
+          "notes": "Demo performance reporting record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "performance-reporting-007",
           "state": "requested",
           "reference": "COMIC-BOOK-0007",
-          "subject": "Brand Rules — Compliance Check — Compliance Check",
+          "subject": "Brand Rules — Compliance Check — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-19",
-          "notes": "Demo performance reporting record for compliance check; verify evidence and next action before completion. — Compliance Check"
+          "dueDate": "2026-09-06",
+          "notes": "Demo performance reporting record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "performance-reporting-008",
           "state": "requested",
           "reference": "COMIC-BOOK-0008",
-          "subject": "Brand Rules — Service Window — Service Window",
+          "subject": "Brand Rules — Service Window — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-22",
-          "notes": "Demo performance reporting record for service window; verify evidence and next action before completion. — Service Window"
+          "dueDate": "2026-09-12",
+          "notes": "Demo performance reporting record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window — Service Window"
         },
         {
           "id": "performance-reporting-009",
           "state": "requested",
           "reference": "COMIC-BOOK-0009",
-          "subject": "Brand Rules — Quality Sample — Quality Sample",
+          "subject": "Brand Rules — Quality Sample — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo performance reporting record for quality sample; verify evidence and next action before completion. — Quality Sample"
+          "dueDate": "2026-09-18",
+          "notes": "Demo performance reporting record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "performance-reporting-010",
           "state": "requested",
           "reference": "COMIC-BOOK-0010",
-          "subject": "Brand Rules — Management Review — Management Review",
+          "subject": "Brand Rules — Management Review — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-28",
-          "notes": "Demo performance reporting record for management review; verify evidence and next action before completion. — Management Review"
+          "dueDate": "2026-09-24",
+          "notes": "Demo performance reporting record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review — Management Review"
         },
         {
           "id": "performance-reporting-011",
           "state": "requested",
           "reference": "COMIC-BOOK-0011",
-          "subject": "Brand Rules — Exception Follow-up — Exception Follow-up",
+          "subject": "Brand Rules — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-31",
-          "notes": "Demo performance reporting record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up"
+          "dueDate": "2026-09-30",
+          "notes": "Demo performance reporting record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "performance-reporting-012",
           "state": "requested",
           "reference": "COMIC-BOOK-0012",
-          "subject": "Brand Rules — Evidence Package — Evidence Package",
+          "subject": "Brand Rules — Evidence Package — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-09-03",
-          "notes": "Demo performance reporting record for evidence package; verify evidence and next action before completion. — Evidence Package"
+          "dueDate": "2026-10-06",
+          "notes": "Demo performance reporting record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "performance-reporting-013",
           "state": "requested",
           "reference": "COMIC-BOOK-0013",
-          "subject": "Brand Rules — Planning Cycle — Planning Cycle",
+          "subject": "Brand Rules — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-09-06",
-          "notes": "Demo performance reporting record for planning cycle; verify evidence and next action before completion. — Planning Cycle"
+          "dueDate": "2026-10-12",
+          "notes": "Demo performance reporting record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "performance-reporting-014",
           "state": "requested",
           "reference": "COMIC-BOOK-0014",
-          "subject": "Brand Rules — Performance Review — Performance Review",
+          "subject": "Brand Rules — Performance Review — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-09-09",
-          "notes": "Demo performance reporting record for performance review; verify evidence and next action before completion. — Performance Review"
+          "dueDate": "2026-10-18",
+          "notes": "Demo performance reporting record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "performance-reporting-015",
           "state": "requested",
           "reference": "COMIC-BOOK-0015",
-          "subject": "Brand Rules — Final Verification — Final Verification",
+          "subject": "Brand Rules — Final Verification — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-09-12",
-          "notes": "Demo performance reporting record for final verification; verify evidence and next action before completion. — Final Verification"
+          "dueDate": "2026-10-24",
+          "notes": "Demo performance reporting record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification — Final Verification"
         }
       ]
     }

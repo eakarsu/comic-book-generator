@@ -143,6 +143,32 @@
     ]
   },
   {
+    "name": "AI Art Advisor",
+    "canonicalKey": "advisor ai art",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/ai-art-suggestions"
+    ],
+    "sourceProjects": [
+      "AIComicBookGenerator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIComicBookGenerator",
+        "path": "public/js/app.js:170",
+        "route": "/ai/ai-art-suggestions",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
     "name": "AI Audience Sentiment",
     "canonicalKey": "ai audience sentiment",
     "aliases": [],
@@ -172,6 +198,84 @@
         "sourceProject": "AIPodcastProducer",
         "path": "frontend/src/components/Layout.jsx:47",
         "route": "/ai-audience-sentiment",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Caption Generator",
+    "canonicalKey": "ai caption generator",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/captions"
+    ],
+    "sourceProjects": [
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/ai/CaptionGenerator.js:1",
+        "route": "/ai/captions",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Character Designer",
+    "canonicalKey": "ai character designer",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/ai-characters"
+    ],
+    "sourceProjects": [
+      "AIComicBookGenerator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIComicBookGenerator",
+        "path": "public/js/app.js:143",
+        "route": "/ai/ai-characters",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Comparison Highlight",
+    "canonicalKey": "ai comparison highlight",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/comparison"
+    ],
+    "sourceProjects": [
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/ai/ComparisonHighlight.js:1",
+        "route": "/ai/comparison",
         "originApp": "media-content-creative/comic-book-generator"
       }
     ]
@@ -240,6 +344,32 @@
         "sourceProject": "AIPodcastProducer",
         "path": "frontend/src/components/Layout.jsx:49",
         "route": "/ai-cross-promo-finder",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Dialogue Writer",
+    "canonicalKey": "ai dialogue writer",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/ai-dialogues"
+    ],
+    "sourceProjects": [
+      "AIComicBookGenerator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIComicBookGenerator",
+        "path": "public/js/app.js:156",
+        "route": "/ai/ai-dialogues",
         "originApp": "media-content-creative/comic-book-generator"
       }
     ]
@@ -381,6 +511,32 @@
     ]
   },
   {
+    "name": "AI Guest Research",
+    "canonicalKey": "ai guest research",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/research-guest"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/AIFeaturePage.jsx:19",
+        "route": "/ai/research-guest",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
     "name": "AI Listener Growth Strategy",
     "canonicalKey": "ai growth listener strategy",
     "aliases": [],
@@ -410,6 +566,58 @@
         "sourceProject": "AIPodcastProducer",
         "path": "frontend/src/components/Layout.jsx:50",
         "route": "/ai-listener-growth-strategy",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Memory Enhancer",
+    "canonicalKey": "ai enhancer memory",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/enhance"
+    ],
+    "sourceProjects": [
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/ai/MemoryEnhancer.js:1",
+        "route": "/ai/enhance",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Memory Prompts",
+    "canonicalKey": "ai memory prompt",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/prompts"
+    ],
+    "sourceProjects": [
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/ai/PromptGenerator.js:1",
+        "route": "/ai/prompts",
         "originApp": "media-content-creative/comic-book-generator"
       }
     ]
@@ -449,6 +657,188 @@
     ]
   },
   {
+    "name": "AI Plot Twists",
+    "canonicalKey": "ai plot twist",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/ai-plot-twists"
+    ],
+    "sourceProjects": [
+      "AIComicBookGenerator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIComicBookGenerator",
+        "path": "public/js/app.js:183",
+        "route": "/ai/ai-plot-twists",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Poetry Generator",
+    "canonicalKey": "ai generator poetry",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/poetry"
+    ],
+    "sourceProjects": [
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/ai/PoetryGenerator.js:1",
+        "route": "/ai/poetry",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Quote Generator",
+    "canonicalKey": "ai generator quote",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/quotes"
+    ],
+    "sourceProjects": [
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/ai/QuoteGenerator.js:1",
+        "route": "/ai/quotes",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Relationship Mapper",
+    "canonicalKey": "ai mapper relationship",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/relationships"
+    ],
+    "sourceProjects": [
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/ai/RelationshipMapper.js:1",
+        "route": "/ai/relationships",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Scene Builder",
+    "canonicalKey": "ai builder scene",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/ai-scenes"
+    ],
+    "sourceProjects": [
+      "AIComicBookGenerator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIComicBookGenerator",
+        "path": "public/js/app.js:197",
+        "route": "/ai/ai-scenes",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Script Generator",
+    "canonicalKey": "ai generator script",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/generate-script"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/AIFeaturePage.jsx:8",
+        "route": "/ai/generate-script",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Sentiment Analysis",
+    "canonicalKey": "ai analysis sentiment",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/sentiment"
+    ],
+    "sourceProjects": [
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/ai/SentimentAnalyzer.js:1",
+        "route": "/ai/sentiment",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
     "name": "AI Seo Optimizer",
     "canonicalKey": "ai optimizer seo",
     "aliases": [],
@@ -478,6 +868,119 @@
         "sourceProject": "AIPodcastProducer",
         "path": "frontend/src/components/Layout.jsx:44",
         "route": "/ai-seo-optimizer",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Story Generator",
+    "canonicalKey": "ai generator story",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/ai-stories",
+      "/ai/stories"
+    ],
+    "sourceProjects": [
+      "AIComicBookGenerator",
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIComicBookGenerator",
+        "path": "public/js/app.js:130",
+        "route": "/ai/ai-stories",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/ai/StoryGenerator.js:1",
+        "route": "/ai/stories",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Summary Generator",
+    "canonicalKey": "ai generator summary",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/summary"
+    ],
+    "sourceProjects": [
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/ai/SummaryGenerator.js:1",
+        "route": "/ai/summary",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Timeline Generator",
+    "canonicalKey": "ai generator timeline",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/timeline"
+    ],
+    "sourceProjects": [
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/ai/TimelineGenerator.js:1",
+        "route": "/ai/timeline",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Title Generator",
+    "canonicalKey": "ai generator title",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/titles"
+    ],
+    "sourceProjects": [
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/ai/TitleGenerator.js:1",
+        "route": "/ai/titles",
         "originApp": "media-content-creative/comic-book-generator"
       }
     ]
@@ -517,14 +1020,68 @@
     ]
   },
   {
+    "name": "AI Topic Suggestions",
+    "canonicalKey": "ai suggestion topic",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/suggest-topics"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/AIFeaturePage.jsx:29",
+        "route": "/ai/suggest-topics",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "AI Villain Creator",
+    "canonicalKey": "ai creator villain",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/ai-villains"
+    ],
+    "sourceProjects": [
+      "AIComicBookGenerator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIComicBookGenerator",
+        "path": "public/js/app.js:212",
+        "route": "/ai/ai-villains",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
     "name": "Analyze Photo",
     "canonicalKey": "analyze photo",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api"
     ],
     "routes": [
-      "/:id/analyze-photo"
+      "/:id/analyze-photo",
+      "/memories/:id"
     ],
     "sourceProjects": [
       "AIMemoryBookCreator"
@@ -533,6 +1090,13 @@
       "media-content-creative/comic-book-generator"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/MemoryDetail.js:1",
+        "route": "/memories/:id",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
       {
         "kind": "api",
         "sourceProject": "AIMemoryBookCreator",
@@ -547,9 +1111,11 @@
     "canonicalKey": "analyze audience sentiment",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api"
     ],
     "routes": [
+      "/ai-audience-sentiment?tool=audience-sentiment-analyze",
       "/audience-sentiment-analyze"
     ],
     "sourceProjects": [
@@ -559,6 +1125,13 @@
       "media-content-creative/comic-book-generator"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/AudienceSentimentPage.jsx:72",
+        "route": "/ai-audience-sentiment?tool=audience-sentiment-analyze",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
       {
         "kind": "api",
         "sourceProject": "AIPodcastProducer",
@@ -1066,6 +1639,41 @@
         "sourceProject": "AIBookPublishingPipeline",
         "path": "backend/routes/ai.js:761",
         "route": "/competitive-analysis-advanced",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "Competitor Analysis",
+    "canonicalKey": "analysis competitor",
+    "aliases": [],
+    "kinds": [
+      "ai-page",
+      "api"
+    ],
+    "routes": [
+      "/ai/competitor-analysis",
+      "/competitor-analysis"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/AdvancedAIToolsPage.jsx:35",
+        "route": "/ai/competitor-analysis",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIPodcastProducer",
+        "path": "backend/routes/ai.js:784",
+        "route": "/competitor-analysis",
         "originApp": "media-content-creative/comic-book-generator"
       }
     ]
@@ -1629,6 +2237,41 @@
     ]
   },
   {
+    "name": "Content Calendar",
+    "canonicalKey": "calendar content",
+    "aliases": [],
+    "kinds": [
+      "ai-page",
+      "api"
+    ],
+    "routes": [
+      "/ai-content-calendar?tool=content-calendar",
+      "/content-calendar"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/ContentCalendarPage.jsx:50",
+        "route": "/ai-content-calendar?tool=content-calendar",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIPodcastProducer",
+        "path": "backend/routes/ai.js:339",
+        "route": "/content-calendar",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
     "name": "Create",
     "canonicalKey": "create",
     "aliases": [],
@@ -1655,17 +2298,15 @@
     ]
   },
   {
-    "name": "Cross Promo Finder Page",
+    "name": "Cross Promo Finder",
     "canonicalKey": "cross finder promo",
-    "aliases": [
-      "Cross Promo Finder"
-    ],
+    "aliases": [],
     "kinds": [
-      "api",
-      "page"
+      "ai-page",
+      "api"
     ],
     "routes": [
-      "/CrossPromoFinderPage",
+      "/ai-cross-promo-finder?tool=cross-promo-finder",
       "/cross-promo-finder"
     ],
     "sourceProjects": [
@@ -1676,12 +2317,38 @@
     ],
     "evidence": [
       {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/CrossPromoFinderPage.jsx:52",
+        "route": "/ai-cross-promo-finder?tool=cross-promo-finder",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
+      {
         "kind": "api",
         "sourceProject": "AIPodcastProducer",
         "path": "backend/routes/ai.js:569",
         "route": "/cross-promo-finder",
         "originApp": "media-content-creative/comic-book-generator"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Cross Promo Finder Page",
+    "canonicalKey": "cross finder promo",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/CrossPromoFinderPage"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
       {
         "kind": "page",
         "sourceProject": "AIPodcastProducer",
@@ -1855,6 +2522,32 @@
     ]
   },
   {
+    "name": "Episode Follow Up Email",
+    "canonicalKey": "email episode follow up",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/episode-followup-email"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/AdvancedAIToolsPage.jsx:43",
+        "route": "/ai/episode-followup-email",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
     "name": "Episode Followup Email",
     "canonicalKey": "email episode followup",
     "aliases": [],
@@ -1885,9 +2578,11 @@
     "canonicalKey": "episode pacing review",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api"
     ],
     "routes": [
+      "/ai/episode-pacing-review",
       "/episode-pacing-review"
     ],
     "sourceProjects": [
@@ -1897,6 +2592,13 @@
       "media-content-creative/comic-book-generator"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/AdvancedAIToolsPage.jsx:26",
+        "route": "/ai/episode-pacing-review",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
       {
         "kind": "api",
         "sourceProject": "AIPodcastProducer",
@@ -1937,9 +2639,11 @@
     "canonicalKey": "episode quality score",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api"
     ],
     "routes": [
+      "/ai-episode-quality?tool=episode-quality-score",
       "/episode-quality-score"
     ],
     "sourceProjects": [
@@ -1950,6 +2654,13 @@
     ],
     "evidence": [
       {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/EpisodeQualityPage.jsx:49",
+        "route": "/ai-episode-quality?tool=episode-quality-score",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
+      {
         "kind": "api",
         "sourceProject": "AIPodcastProducer",
         "path": "backend/routes/ai.js:430",
@@ -1959,17 +2670,15 @@
     ]
   },
   {
-    "name": "Episode Topic Cluster Page",
+    "name": "Episode Topic Cluster",
     "canonicalKey": "cluster episode topic",
-    "aliases": [
-      "Episode Topic Cluster"
-    ],
+    "aliases": [],
     "kinds": [
-      "api",
-      "page"
+      "ai-page",
+      "api"
     ],
     "routes": [
-      "/EpisodeTopicClusterPage",
+      "/ai-episode-topic-cluster?tool=episode-topic-cluster",
       "/episode-topic-cluster"
     ],
     "sourceProjects": [
@@ -1980,12 +2689,38 @@
     ],
     "evidence": [
       {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/EpisodeTopicClusterPage.jsx:54",
+        "route": "/ai-episode-topic-cluster?tool=episode-topic-cluster",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
+      {
         "kind": "api",
         "sourceProject": "AIPodcastProducer",
         "path": "backend/routes/ai.js:523",
         "route": "/episode-topic-cluster",
         "originApp": "media-content-creative/comic-book-generator"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Episode Topic Cluster Page",
+    "canonicalKey": "cluster episode topic",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/EpisodeTopicClusterPage"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
       {
         "kind": "page",
         "sourceProject": "AIPodcastProducer",
@@ -3011,6 +3746,32 @@
     ]
   },
   {
+    "name": "Generate Intro Outro With AI",
+    "canonicalKey": "ai generate intro outro with",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/generate-intro-outro"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/FeaturePage.jsx:211",
+        "route": "/ai/generate-intro-outro",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
     "name": "Generate Narration",
     "canonicalKey": "generate narration",
     "aliases": [],
@@ -3162,6 +3923,58 @@
     ]
   },
   {
+    "name": "Generate Questions With AI",
+    "canonicalKey": "ai generate question with",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/generate-questions"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/FeaturePage.jsx:217",
+        "route": "/ai/generate-questions",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "Generate Quote",
+    "canonicalKey": "generate quote",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/generate-quote"
+    ],
+    "sourceProjects": [
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "backend/routes/ai.js:182",
+        "route": "/generate-quote",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
     "name": "Generate Script",
     "canonicalKey": "generate script",
     "aliases": [],
@@ -3183,6 +3996,32 @@
         "sourceProject": "AIPodcastProducer",
         "path": "backend/routes/ai.js:70",
         "route": "/generate-script",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "Generate Script With AI",
+    "canonicalKey": "ai generate script with",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/generate-script"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/FeaturePage.jsx:194",
+        "route": "/ai/generate-script",
         "originApp": "media-content-creative/comic-book-generator"
       }
     ]
@@ -3222,6 +4061,32 @@
     ]
   },
   {
+    "name": "Generate Show Notes With AI",
+    "canonicalKey": "ai generate note show with",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/generate-show-notes"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/FeaturePage.jsx:205",
+        "route": "/ai/generate-show-notes",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
     "name": "Generate Social Post",
     "canonicalKey": "generate post social",
     "aliases": [],
@@ -3248,13 +4113,41 @@
     ]
   },
   {
+    "name": "Generate Social Post With AI",
+    "canonicalKey": "ai generate post social with",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/generate-social-post"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/FeaturePage.jsx:228",
+        "route": "/ai/generate-social-post",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
     "name": "Generate Story",
     "canonicalKey": "generate story",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api"
     ],
     "routes": [
+      "/create?tool=generate-story",
       "/generate-story"
     ],
     "sourceProjects": [
@@ -3265,6 +4158,13 @@
       "media-content-creative/comic-book-generator"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIComicBookGenerator",
+        "path": "client/src/pages/CreateStory.jsx:1",
+        "route": "/create?tool=generate-story",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
       {
         "kind": "api",
         "sourceProject": "AIComicBookGenerator",
@@ -3386,13 +4286,41 @@
     ]
   },
   {
+    "name": "Generate Transcript With AI",
+    "canonicalKey": "ai generate transcript with",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/generate-transcript"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/FeaturePage.jsx:223",
+        "route": "/ai/generate-transcript",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
     "name": "Generate Villain",
     "canonicalKey": "generate villain",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api"
     ],
     "routes": [
+      "/create?tool=generate-villain",
       "/generate-villain"
     ],
     "sourceProjects": [
@@ -3402,6 +4330,13 @@
       "media-content-creative/comic-book-generator"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIComicBookGenerator",
+        "path": "client/src/pages/CreateStory.jsx:1",
+        "route": "/create?tool=generate-villain",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
       {
         "kind": "api",
         "sourceProject": "AIComicBookGenerator",
@@ -3464,17 +4399,15 @@
     ]
   },
   {
-    "name": "Guest Fit Score Page",
+    "name": "Guest Fit Score",
     "canonicalKey": "fit guest score",
-    "aliases": [
-      "Guest Fit Score"
-    ],
+    "aliases": [],
     "kinds": [
-      "api",
-      "page"
+      "ai-page",
+      "api"
     ],
     "routes": [
-      "/GuestFitScorePage",
+      "/ai-guest-fit-score?tool=guest-fit-score",
       "/guest-fit-score"
     ],
     "sourceProjects": [
@@ -3485,12 +4418,38 @@
     ],
     "evidence": [
       {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/GuestFitScorePage.jsx:46",
+        "route": "/ai-guest-fit-score?tool=guest-fit-score",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
+      {
         "kind": "api",
         "sourceProject": "AIPodcastProducer",
         "path": "backend/routes/ai.js:390",
         "route": "/guest-fit-score",
         "originApp": "media-content-creative/comic-book-generator"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Guest Fit Score Page",
+    "canonicalKey": "fit guest score",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GuestFitScorePage"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
       {
         "kind": "page",
         "sourceProject": "AIPodcastProducer",
@@ -3501,17 +4460,15 @@
     ]
   },
   {
-    "name": "Guest Outreach Page",
+    "name": "Guest Outreach",
     "canonicalKey": "guest outreach",
-    "aliases": [
-      "Guest Outreach"
-    ],
+    "aliases": [],
     "kinds": [
-      "api",
-      "page"
+      "ai-page",
+      "api"
     ],
     "routes": [
-      "/GuestOutreachPage",
+      "/ai-guest-outreach?tool=guest-outreach",
       "/guest-outreach"
     ],
     "sourceProjects": [
@@ -3522,12 +4479,38 @@
     ],
     "evidence": [
       {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/GuestOutreachPage.jsx:38",
+        "route": "/ai-guest-outreach?tool=guest-outreach",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
+      {
         "kind": "api",
         "sourceProject": "AIPodcastProducer",
         "path": "backend/routes/ai.js:288",
         "route": "/guest-outreach",
         "originApp": "media-content-creative/comic-book-generator"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Guest Outreach Page",
+    "canonicalKey": "guest outreach",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/GuestOutreachPage"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
       {
         "kind": "page",
         "sourceProject": "AIPodcastProducer",
@@ -4721,10 +5704,12 @@
     "canonicalKey": "finder gap heritage",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "page"
     ],
     "routes": [
-      "/HeritageGapFinder"
+      "/HeritageGapFinder",
+      "/ai/heritage-gaps"
     ],
     "sourceProjects": [
       "AIMemoryBookCreator"
@@ -4733,6 +5718,13 @@
       "media-content-creative/comic-book-generator"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/HeritageGapFinder.js:1",
+        "route": "/ai/heritage-gaps",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
       {
         "kind": "page",
         "sourceProject": "AIMemoryBookCreator",
@@ -4896,17 +5888,15 @@
     ]
   },
   {
-    "name": "Listener Growth Strategy Page",
+    "name": "Listener Growth Strategy",
     "canonicalKey": "growth listener strategy",
-    "aliases": [
-      "Listener Growth Strategy"
-    ],
+    "aliases": [],
     "kinds": [
-      "api",
-      "page"
+      "ai-page",
+      "api"
     ],
     "routes": [
-      "/ListenerGrowthStrategyPage",
+      "/ai-listener-growth-strategy?tool=listener-growth-strategy",
       "/listener-growth-strategy"
     ],
     "sourceProjects": [
@@ -4917,12 +5907,38 @@
     ],
     "evidence": [
       {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/ListenerGrowthStrategyPage.jsx:52",
+        "route": "/ai-listener-growth-strategy?tool=listener-growth-strategy",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
+      {
         "kind": "api",
         "sourceProject": "AIPodcastProducer",
         "path": "backend/routes/ai.js:605",
         "route": "/listener-growth-strategy",
         "originApp": "media-content-creative/comic-book-generator"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Listener Growth Strategy Page",
+    "canonicalKey": "growth listener strategy",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/ListenerGrowthStrategyPage"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
       {
         "kind": "page",
         "sourceProject": "AIPodcastProducer",
@@ -5293,9 +6309,11 @@
     "canonicalKey": "multiplatform prep publishing",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api"
     ],
     "routes": [
+      "/ai-multiplatform-publishing?tool=multiplatform-publishing-prep",
       "/multiplatform-publishing-prep"
     ],
     "sourceProjects": [
@@ -5305,6 +6323,13 @@
       "media-content-creative/comic-book-generator"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/MultiPlatformPublishingPage.jsx:65",
+        "route": "/ai-multiplatform-publishing?tool=multiplatform-publishing-prep",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
       {
         "kind": "api",
         "sourceProject": "AIPodcastProducer",
@@ -5603,15 +6628,12 @@
   {
     "name": "Optimize Seo",
     "canonicalKey": "optimize seo",
-    "aliases": [
-      "Seo Optimize"
-    ],
+    "aliases": [],
     "kinds": [
       "api"
     ],
     "routes": [
-      "/optimize-seo",
-      "/seo-optimize"
+      "/optimize-seo"
     ],
     "sourceProjects": [
       "AIPodcastProducer"
@@ -5626,12 +6648,31 @@
         "path": "backend/routes/ai.js:251",
         "route": "/optimize-seo",
         "originApp": "media-content-creative/comic-book-generator"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Optimize Seo With AI",
+    "canonicalKey": "ai optimize seo with",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/optimize-seo"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
       {
-        "kind": "api",
+        "kind": "ai-page",
         "sourceProject": "AIPodcastProducer",
-        "path": "backend/routes/ai.js:365",
-        "route": "/seo-optimize",
+        "path": "frontend/src/pages/FeaturePage.jsx:234",
+        "route": "/ai/optimize-seo",
         "originApp": "media-content-creative/comic-book-generator"
       }
     ]
@@ -5703,9 +6744,11 @@
     "canonicalKey": "plot twist",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api"
     ],
     "routes": [
+      "/create?tool=plot-twist",
       "/plot-twist"
     ],
     "sourceProjects": [
@@ -5715,6 +6758,13 @@
       "media-content-creative/comic-book-generator"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIComicBookGenerator",
+        "path": "client/src/pages/CreateStory.jsx:1",
+        "route": "/create?tool=plot-twist",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
       {
         "kind": "api",
         "sourceProject": "AIComicBookGenerator",
@@ -6483,9 +7533,6 @@
       "api"
     ],
     "routes": [
-      "/ab-test/run",
-      "/chain/run",
-      "/playground/run",
       "/run"
     ],
     "sourceProjects": [
@@ -6507,7 +7554,6 @@
       "AINewsroomAssistant",
       "AIPlagiarismAIContentDetector",
       "AIPodcastProducer",
-      "AIPromptEngineeringStudio",
       "AISocialMediaManager",
       "AISportsAnalytics",
       "AITheaterPerformingArtsManager",
@@ -6516,7 +7562,6 @@
       "AIVideoIntelligence",
       "AIVideoTestimonialCreator",
       "AiMarketingCopyGenerator",
-      "AiSplitVideos",
       "AiVideoScriptContent"
     ],
     "consolidatedFromApps": [
@@ -6529,8 +7574,7 @@
       "media-content-creative/marketing-copy-generator",
       "media-content-creative/music-generation",
       "media-content-creative/social-media-manager",
-      "media-content-creative/video-generation",
-      "media-content-creative/voice-forge"
+      "media-content-creative/video-generation"
     ],
     "evidence": [
       {
@@ -7998,90 +9042,6 @@
       },
       {
         "kind": "api",
-        "sourceProject": "AIPromptEngineeringStudio",
-        "path": "backend/routes/ai.js:218",
-        "route": "/ab-test/run",
-        "originApp": "media-content-creative/voice-forge"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AIPromptEngineeringStudio",
-        "path": "backend/routes/ai.js:266",
-        "route": "/chain/run",
-        "originApp": "media-content-creative/voice-forge"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AIPromptEngineeringStudio",
-        "path": "backend/routes/ai.js:34",
-        "route": "/playground/run",
-        "originApp": "media-content-creative/voice-forge"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AiSplitVideos",
-        "path": "backend/src/routes/gapAiSurfaceAreaIsModest6EndpointsRelative.js:55",
-        "route": "/run",
-        "originApp": "media-content-creative/voice-forge"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AiSplitVideos",
-        "path": "backend/src/routes/gapNoAiDrivenHighlightDetectionEndpointFrontendStubExists.js:55",
-        "route": "/run",
-        "originApp": "media-content-creative/voice-forge"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AiSplitVideos",
-        "path": "backend/src/routes/gapNoAiPoweredSubtitleCaptionOptimizationEndpoint.js:55",
-        "route": "/run",
-        "originApp": "media-content-creative/voice-forge"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AiSplitVideos",
-        "path": "backend/src/routes/gapNoAiSceneChangeDetectionBackend.js:55",
-        "route": "/run",
-        "originApp": "media-content-creative/voice-forge"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AiSplitVideos",
-        "path": "backend/src/routes/gapNoIntegrationsWithYoutubeTiktokInstagramForDirect.js:55",
-        "route": "/run",
-        "originApp": "media-content-creative/voice-forge"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AiSplitVideos",
-        "path": "backend/src/routes/gapNoPublicApiForThirdPartyIntegrations.js:55",
-        "route": "/run",
-        "originApp": "media-content-creative/voice-forge"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AiSplitVideos",
-        "path": "backend/src/routes/gapNoSubtitleCaptionEditingUiInBackend.js:55",
-        "route": "/run",
-        "originApp": "media-content-creative/voice-forge"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AiSplitVideos",
-        "path": "backend/src/routes/gapNoWatermarkingOrBrandingControls.js:55",
-        "route": "/run",
-        "originApp": "media-content-creative/voice-forge"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AiSplitVideos",
-        "path": "backend/src/routes/gapNoWebhooksForJobCompletionNotifications.js:55",
-        "route": "/run",
-        "originApp": "media-content-creative/voice-forge"
-      },
-      {
-        "kind": "api",
         "sourceProject": "AISportsAnalytics",
         "path": "server/routes/gapNoAiDrivenInjuryImpactPrediction.js:55",
         "route": "/run",
@@ -8275,6 +9235,49 @@
     ]
   },
   {
+    "name": "Sentiment",
+    "canonicalKey": "sentiment",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/ai/sentiment",
+      "/sentiment"
+    ],
+    "sourceProjects": [
+      "AIGameBalancingPlaytestingAgent",
+      "AIMemoryBookCreator"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator",
+      "media-content-creative/game-balancing-playtesting-agent"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/App.js:101",
+        "route": "/ai/sentiment",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIMemoryBookCreator",
+        "path": "frontend/src/pages/Dashboard.js:62",
+        "route": "/ai/sentiment",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIGameBalancingPlaytestingAgent",
+        "path": "client/src/App.jsx:145",
+        "route": "/sentiment",
+        "originApp": "media-content-creative/game-balancing-playtesting-agent"
+      }
+    ]
+  },
+  {
     "name": "Sentiment Analysis",
     "canonicalKey": "analysis sentiment",
     "aliases": [],
@@ -8320,6 +9323,41 @@
         "sourceProject": "AIMemoryBookCreator",
         "path": "frontend/src/pages/ai/SentimentAnalyzer.js",
         "route": "/ai/SentimentAnalyzer",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "Seo Optimize",
+    "canonicalKey": "optimize seo",
+    "aliases": [],
+    "kinds": [
+      "ai-page",
+      "api"
+    ],
+    "routes": [
+      "/ai-seo-optimizer?tool=seo-optimize",
+      "/seo-optimize"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/SEOOptimizerPage.jsx:44",
+        "route": "/ai-seo-optimizer?tool=seo-optimize",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIPodcastProducer",
+        "path": "backend/routes/ai.js:365",
+        "route": "/seo-optimize",
         "originApp": "media-content-creative/comic-book-generator"
       }
     ]
@@ -8535,9 +9573,11 @@
     "canonicalKey": "pitch sponsorship",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api"
     ],
     "routes": [
+      "/ai/sponsorship-pitch",
       "/sponsorship-pitch"
     ],
     "sourceProjects": [
@@ -8547,6 +9587,13 @@
       "media-content-creative/comic-book-generator"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/AdvancedAIToolsPage.jsx:16",
+        "route": "/ai/sponsorship-pitch",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
       {
         "kind": "api",
         "sourceProject": "AIPodcastProducer",
@@ -8665,6 +9712,32 @@
         "sourceProject": "AIPodcastProducer",
         "path": "backend/routes/ai.js:113",
         "route": "/suggest-topics",
+        "originApp": "media-content-creative/comic-book-generator"
+      }
+    ]
+  },
+  {
+    "name": "Suggest Topics With AI",
+    "canonicalKey": "ai suggest topic with",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/ai/suggest-topics"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/FeaturePage.jsx:200",
+        "route": "/ai/suggest-topics",
         "originApp": "media-content-creative/comic-book-generator"
       }
     ]
@@ -9401,17 +10474,15 @@
     ]
   },
   {
-    "name": "Title Variants Page",
+    "name": "Title Variants",
     "canonicalKey": "title variant",
-    "aliases": [
-      "Title Variants"
-    ],
+    "aliases": [],
     "kinds": [
-      "api",
-      "page"
+      "ai-page",
+      "api"
     ],
     "routes": [
-      "/TitleVariantsPage",
+      "/ai-title-variants?tool=title-variants",
       "/title-variants"
     ],
     "sourceProjects": [
@@ -9422,12 +10493,38 @@
     ],
     "evidence": [
       {
+        "kind": "ai-page",
+        "sourceProject": "AIPodcastProducer",
+        "path": "frontend/src/pages/TitleVariantsPage.jsx:45",
+        "route": "/ai-title-variants?tool=title-variants",
+        "originApp": "media-content-creative/comic-book-generator"
+      },
+      {
         "kind": "api",
         "sourceProject": "AIPodcastProducer",
         "path": "backend/routes/ai.js:314",
         "route": "/title-variants",
         "originApp": "media-content-creative/comic-book-generator"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Title Variants Page",
+    "canonicalKey": "title variant",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/TitleVariantsPage"
+    ],
+    "sourceProjects": [
+      "AIPodcastProducer"
+    ],
+    "consolidatedFromApps": [
+      "media-content-creative/comic-book-generator"
+    ],
+    "evidence": [
       {
         "kind": "page",
         "sourceProject": "AIPodcastProducer",

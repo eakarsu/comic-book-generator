@@ -3,7 +3,7 @@
 Industry: **Media, Content & Creative**  
 Specialization: **Comic Book Generator**
 
-This standalone application consolidates source-backed capabilities into 188 optimized features, including 59 visible data-backed or AI-enabled views. Its public demo SQLite database contains 837 sanitized source rows across 55 imported tables and 120 operational workflow records.
+This standalone application consolidates source-backed capabilities into 229 optimized features, including 103 visible data-backed or AI-enabled views. Its public demo SQLite database contains 837 sanitized source rows across 55 imported tables and 120 operational workflow records.
 
 ## Run locally
 

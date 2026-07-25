@@ -11,12 +11,12 @@
     "AIMemoryBookCreator",
     "AIPodcastProducer"
   ],
-  "featureCount": 188,
-  "candidateFeatureCount": 299,
-  "eliminatedSimilarFeatures": 111,
-  "evidenceCount": 838,
-  "aiPageCount": 0,
-  "sourceAIPageCount": 0,
+  "featureCount": 229,
+  "candidateFeatureCount": 329,
+  "eliminatedSimilarFeatures": 100,
+  "evidenceCount": 882,
+  "aiPageCount": 50,
+  "sourceAIPageCount": 50,
   "featureEvidencePolicy": "Existing source routes, pages, APIs, models, schemas, and navigation only",
   "optimizationPolicy": "Equivalent feature names are consolidated once per industry and assigned to one canonical app owner",
   "database": "database.sqlite",
@@ -25,6 +25,6 @@
     "seededTables": 55,
     "seededRows": 837
   },
-  "visibleFeatureCount": 59,
+  "visibleFeatureCount": 103,
   "featureVisibilityMode": "seeded-or-ai"
 }
